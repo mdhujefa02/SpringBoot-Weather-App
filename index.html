@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>⛅Weather App⛅ - Hujefa Saudagar</title>
+    <!-- Weather Icons CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+</head>
+<body>
+	<div style="color:white; text-align:center">
+	<img src="images/atmospheric-conditions.png" style=" height: auto;width: auto;filter: drop-shadow(10px 10px 10px black);">
+	    <h1>Welcome to Weather Web App</h1>
+	 
+	    <h2>Technologies Used: </h2> <p>HTML, CSS,JS,Java, SpringBoot, OpenWeather API</p>
+	     <form action="/weather.html" method="get" class="searchInput">
+	             <input type="text" class="form-control" name="city" placeholder="Enter city name" required>
+	            <button id="searchButton"><i class="fa-regular fa-magnifying-glass"></i></button>
+	      </form>    
+	 </div>
+</body>
+</html>
