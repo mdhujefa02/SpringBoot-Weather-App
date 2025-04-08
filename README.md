@@ -8,7 +8,7 @@ Displays temperature, humidity, and weather condition
 
 Simple and responsive HTML/CSS frontend
 
-Spring Boot backend
+Java Spring Boot backend
 
 Integrates with OpenWeatherMap API
 
@@ -35,3 +35,8 @@ application.properties: Stores API key and other app configs
 index.html & weather.html: UI pages
 
 index.css: Basic styling
+
+# OutPut
+![Screenshot 2025-04-08 132051](https://github.com/user-attachments/assets/afdb0895-425b-4bd5-ba92-e66e83e6f88e)
+
+![Screenshot 2025-04-08 132112](https://github.com/user-attachments/assets/723c8cb7-cd3a-4b64-943c-053da2d5b6a1)
