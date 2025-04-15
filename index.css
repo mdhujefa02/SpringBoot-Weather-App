@@ -9,7 +9,7 @@ body {
 	display: flex;
 	 align-items: center;
 	 justify-content: center;
-    background:  url('/images/Cloud.jpg') no-repeat center center fixed;
+    background:  url('Cloud.jpg') no-repeat center center fixed;
     background-size: cover;
     color: black;
     font-family: 'Arial', sans-serif;
